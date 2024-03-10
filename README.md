@@ -1,11 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://rishavchanda.io)
-<h1 align="center">Hi There! 👋, I'm Joku10</h1>
+[![MasterHead](https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishavchanda.io)
+<h1 align="center">Joku10</h1>
 <h3 align="center">To be a programmer long term, you have to love change. You can't just tolerate it, you have to love it.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joku10&label=Profile%20views&color=0e75b6&style=flat" alt="joku10" /> </p>
-
-<p align="left"> <a href="https://twitter.com/joku10" target="blank"><img src="https://img.shields.io/twitter/follow/joku10?logo=twitter&style=for-the-badge" alt="joku10" /></a> </p>
 
 - 🔭 I’m currently working on **Nmap using Host discovery & Service👨🏻‍💻👾**
 
@@ -24,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@joku10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@joku10" height="30" width="40" /></a>
-<a href="https://twitter.com/joku10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joku10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lijo-jolly-7b53a12b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lijo-jolly-7b53a12b5/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23567593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23567593" height="30" width="40" /></a>
 <a href="https://instagram.com/i.ca_ru.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.ca_ru.s" height="30" width="40" /></a>
