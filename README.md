@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:A)]
 <h1 align="center">Joku10</h1>
 <h3 align="center">എന്തൊക്കേ ആടെ ഈ കൊച്ചു കേരളത്തിൽ നടക്കുന്നേ</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pm4S40MGsIQAAAAM/hacker-hackerman.gif">
