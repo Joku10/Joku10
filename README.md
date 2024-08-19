@@ -5,20 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joku10&label=Profile%20views&color=0e75b6&style=flat" alt="joku10" /> </p>
 
-- 🔭 I’m currently working on **Nmap using Host discovery & Service👨🏻‍💻👾**
-
-- 🌱 I’m currently learning **C Language, SQL & Python 🌐💬**
-
-- 👯 I’m looking to collaborate on **Wire Shark & Kali Linux ☣**
-
-- 🤝 I’m looking for help with **Software communications, IP & Encryption**
-
-- 💬 Ask me about **F1🏎️🏁, Anime⛩️🌸 or Cats🐈🐱**
-
-- 📫 How to reach me **lijojolly10@gmail.com 📩**
-
-- ⚡ Fun fact **Light travels faster than sound. This is why some people appear bright until they speak.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@joku10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@joku10" height="30" width="40" /></a>
