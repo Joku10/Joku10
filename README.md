@@ -1,5 +1,5 @@
 <h1 align="center">Joku10</h1>
-<h3 align="center">എന്തൊക്കേ ആടെ ഈ കൊച്ചു കേരളത്തിൽ നടക്കുന്നേ</h3>
+<h3 align="center">എന്തൊക്കേ ഈ കൊച്ചു കേരളത്തിൽ നടക്കുന്നേ</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Pm4S40MGsIQAAAAM/hacker-hackerman.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joku10&label=Profile%20views&color=0e75b6&style=flat" alt="joku10" /> </p>
